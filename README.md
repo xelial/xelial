@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Studying on **Smk Taruna Bhakti**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **alfahdkhatami123@gmail.com**
 
