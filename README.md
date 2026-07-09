@@ -4,3 +4,5 @@
 - 🔭 I’m currently Studying on **Smk Taruna Bhakti**
 
 - 📫 How to reach me **alfahdkhatami123@gmail.com**
+
+- Linkedin https://www.linkedin.com/in/alfahdkhatami/
